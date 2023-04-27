@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-ALX Holberton python programme
+# Solutions to tasks on Python - Network #0
